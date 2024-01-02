@@ -197,6 +197,11 @@ body {
         align-items: center;
     }
 
+    .content .blurb h2 {
+        font-size: 36px;
+        padding-bottom: 0.5em;
+    }
+
     .content .flex-group {
         flex-direction: row;
         gap: 3em;
