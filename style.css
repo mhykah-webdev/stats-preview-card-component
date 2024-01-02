@@ -200,6 +200,7 @@ body {
     .content .blurb h2 {
         font-size: 36px;
         padding-bottom: 0.5em;
+        line-height: 44px;
     }
 
     .content .flex-group {
