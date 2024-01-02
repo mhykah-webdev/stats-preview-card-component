@@ -135,13 +135,13 @@ body {
     padding: 2em;
 }
 
-.content .blurb h2 {
+.content .blurb h1 {
     font-size: 28px;
     font-weight: 700;
     line-height: 32px;
 }
 
-.content .blurb h2 span {
+.content .blurb h1 span {
     color: var(--clr-purple);
 }
 
@@ -197,7 +197,7 @@ body {
         align-items: center;
     }
 
-    .content .blurb h2 {
+    .content .blurb h1 {
         font-size: 36px;
         padding-bottom: 0.5em;
         line-height: 44px;
